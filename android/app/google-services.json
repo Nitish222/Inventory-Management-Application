@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123104797970",
+    "project_id": "gaba-medicos",
+    "storage_bucket": "gaba-medicos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123104797970:android:fba87c7dad28247d77ffcb",
+        "android_client_info": {
+          "package_name": "com.nitish.inventar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123104797970-hkk5gkg7klce1ifgldl6nntcmieu5fb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDBhPYSGAp3y93Wad6hSRpPvHMXZmptg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123104797970-hkk5gkg7klce1ifgldl6nntcmieu5fb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
